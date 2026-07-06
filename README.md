@@ -38,7 +38,7 @@ Fun facts:
 - I'd rather being hated for what I truly am and like that being
 loved for what I not truly am and like 
 - I also like doing calisthenics, reading and going fo a walk
-- I like videogames (Persona 3 Reload is one of my favorites)
+- I like videogames (Persona 3 is one of my favorites)
 
 <br clear="right">
 
