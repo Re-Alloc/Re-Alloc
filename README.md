@@ -36,7 +36,7 @@ Fun facts:
 - I REALLY like memes and broken humor
 - I'm kinda shy
 - I also like doing calisthenics, reading and going fo a walk
-- I like videogames
+- I like videogames (Persona 3 Reload is one of my favorites)
 
 <br clear="right">
 
