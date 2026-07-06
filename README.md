@@ -38,6 +38,8 @@ I'm Re:Alloc. I'm a low-level dev who likes programming in C by doing personal p
 - I also like doing calisthenics, reading and going fo a walk
 - I like videogames
 
+<br clear="right">
+
 
 <!--
 **Re-Alloc/Re-Alloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
