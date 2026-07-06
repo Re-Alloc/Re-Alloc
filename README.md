@@ -2,7 +2,7 @@
 
 I'm Re:Alloc. I'm a low-level dev who likes programming in C by doing personal projects. I like Embeddes Systems and IoT
 
-## Technologies I mainly use
+## Technology Stack
 
 ###
 
@@ -25,7 +25,11 @@ I'm Re:Alloc. I'm a low-level dev who likes programming in C by doing personal p
 ## Fun facts
 
 - I have two cats
-- Yes
+- I'm into anime (Jojo's is my favorite one)
+- I REALLY like memes and broken humor
+- I'm kinda shy
+- I also like doing calisthenics, reading and going fo a walk
+- I like videogames
 
 ###
 
