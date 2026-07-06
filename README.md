@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm Re:Alloc. I'm a low-level dev who likes programming in C by doing personal projects and who wants to learn C++ and Assembly. I like Embeddes Systems and IoT
+I'm Re:Alloc. I'm an aspiring Spanish low-level dev who likes programming in C by doing personal projects and who wants to learn C++ and Assembly. I like Embeddes Systems and IoT
 
 # Languages and tools I use
 
