@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-## I'm Re:Alloc. I'm a low-level dev who likes programming in C by doing personal projects. I like Embeddes Systems and IoT
+I'm Re:Alloc. I'm a low-level dev who likes programming in C by doing personal projects. I like Embeddes Systems and IoT
 
 # Languages and Tools I use
 
