@@ -29,7 +29,7 @@ I'm Re:Alloc. I'm a low-level dev who likes programming in C by doing personal p
 
 ###
 
-## Fun facts ##
+Fun facts:
 
 - I have two cats
 - I'm into anime (Jojo's is my favorite one)
