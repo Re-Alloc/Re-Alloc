@@ -34,14 +34,15 @@ I may not have many repos including all the languages below. That's because I ma
 Fun facts:
 
 - I have two cats
-- I'm into anime (Jojo's is my favorite one)
+- I'm into anime (JoJo's is my favorite)
 - I REALLY like memes and broken humor
 - I'm kinda shy
 - I'd rather being hated for what I truly am and like that being
 loved for what I not truly am and like 
 - I also like doing calisthenics, reading books and manga and going
  for a walk
-- I like videogames (Persona 3 is one of my favorites)
+- I LOVE videogames (Persona 3 is one of my favorites), specially retro
+games. 
 
 <br clear="right">
 
