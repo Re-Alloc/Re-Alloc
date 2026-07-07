@@ -39,7 +39,8 @@ Fun facts:
 - I'm kinda shy
 - I'd rather being hated for what I truly am and like that being
 loved for what I not truly am and like 
-- I also like doing calisthenics, reading books and manga and going fo a walk
+- I also like doing calisthenics, reading books and manga
+and going fo a walk
 - I like videogames (Persona 3 is one of my favorites)
 
 <br clear="right">
