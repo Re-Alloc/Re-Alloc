@@ -41,8 +41,8 @@ Fun facts:
 loved for what I not truly am and like 
 - I like doing calisthenics, reading books and manga and going
  for a walk sometimes
-- I LOVE videogames (for example, Persona 3), specially retro
-games. 
+- I LOVE videogames (for example, Persona 3), specially
+retro games. 
 
 <br clear="right">
 
