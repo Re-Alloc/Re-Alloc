@@ -37,8 +37,6 @@ Fun facts:
 - I'm into anime (JoJo's is my favorite)
 - I REALLY like memes and broken humor
 - I'm kinda shy
-- I'd rather being hated for what I truly am and like that being
-loved for what I not truly am and like 
 - I like doing calisthenics, reading books and manga and going
  for a walk sometimes
 - I LOVE videogames (for example, Persona 3),
