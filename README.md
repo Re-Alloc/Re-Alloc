@@ -44,8 +44,7 @@ Fun facts:
 - I'm kinda shy
 - I like doing exercise, reading books and going
 for a walk
-- I LOVE videogames (for example, Persona 3),
-specially retro games. 
+- I LOVE videogames (for example, Persona 3)
 
 <br clear="right">
 
