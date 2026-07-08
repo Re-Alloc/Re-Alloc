@@ -45,6 +45,7 @@ Fun facts:
 - I like doing exercise, reading books and going
 for a walk
 - I LOVE videogames (for example, Persona 3)
+- I'm a retro games enthusiast as well
 
 <br clear="right">
 
