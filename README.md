@@ -2,7 +2,8 @@
 
 I'm Re:Alloc. I'm an aspiring Spanish low-level dev who likes programming in C by doing personal projects and who wants to learn C++ and Assembly. I like Embedded Systems and IoT
 
-I may not have many repos including all the languages below. That's because I mainly use C (like I said before) and I don't usually use Python nor Go
+I may not have many repos including all the languages below, and that's because I mainly use C (like I said before). I mean, I use Lua to make some scripts for Hyprland or Nvim, Go for
+CLI tools and Python and Bash for automation
 
 # Languages and tools I use
 
