@@ -33,12 +33,12 @@ I may not have many repos including all the languages below. That's because I ma
 
 Fun facts:
 
-- I have two black cats
+- I have two cats
 - I'm into anime (JoJo's is my favorite)
 - I REALLY like memes and broken humor
 - I'm kinda shy
-- I like doing calisthenics, reading books and manga and going
- for a walk sometimes
+- I like doing exercise, reading books and going
+for a walk
 - I LOVE videogames (for example, Persona 3),
 specially retro games. 
 
